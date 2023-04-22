@@ -1,0 +1,12 @@
+K massimo di casse aperte contemporaneamente: 6
+C massimo di clienti nel supermercato: 50
+E soglia per cui usciti E clienti ne entrano altri E: 3
+S tempo dopo il quale ogni cliente decide se cambiare cassa: 20
+T > 10 millisecondi tempo max che ci mette un cliente a scegliere i prodotti da acquistare: 200
+P max numero di prodotti acquistabili da un cliente: 100
+numero casse all'apertura: 2
+nome del file di log: resoconto2.log
+tempo gestione del cassiere per un singolo prodotto: 2
+ampiezza intervalli in cui il direttore viene informato dai cassieri su numero clienti in coda alla cassa: 20
+S1 soglia per la quale se ci sono S1 casse con al massimo un cliente, allora chiude una cassa: 2
+S2 soglia per la quale se c'è almeno una cassa con almeno S2 clienti in coda, allora apre una cassa: 5
